@@ -1,0 +1,41 @@
+.navbar-brand{
+	font-family: 'Rubik Mono One', sans-serif;
+}
+
+.nav-link, h3{
+	font-family: 'Rubik', sans-serif;
+	font-style: light;
+}
+
+h4{
+	font-family:  'Montserrat', sans-serif;;
+	font-style:  light;
+	font-size: 14px;
+}
+
+.img-responsive{
+	width:100%
+
+}
+
+.shop-row, .shop-row-content{
+	padding: 20px;
+}
+
+.shop-row-product, .shop-row-content-product{
+	padding: 5px;
+}
+
+.home-spotlight-text{
+	padding: 10px;
+	font-size: 12px;
+}
+
+.no-padding{
+	padding: 0;
+}
+
+button{
+	float: right;
+	display: inline-block;
+}
